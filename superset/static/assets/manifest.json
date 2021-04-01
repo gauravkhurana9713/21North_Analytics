@@ -1,0 +1,98 @@
+{
+  "app": "superset",
+  "entrypoints": {
+    "theme": {
+      "css": [],
+      "js": [
+        "/static/assets/theme.fbcc8489.entry.js"
+      ]
+    },
+    "preamble": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.fbcc8489.chunk.js",
+        "/static/assets/preamble.fbcc8489.entry.js"
+      ]
+    },
+    "addSlice": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.fbcc8489.chunk.js",
+        "/static/assets/mathjs.fbcc8489.chunk.js",
+        "/static/assets/thumbnail.fbcc8489.chunk.js",
+        "/static/assets/3.fbcc8489.chunk.js",
+        "/static/assets/4.fbcc8489.chunk.js",
+        "/static/assets/addSlice.fbcc8489.entry.js"
+      ]
+    },
+    "explore": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.fbcc8489.chunk.js",
+        "/static/assets/mathjs.fbcc8489.chunk.js",
+        "/static/assets/thumbnail.fbcc8489.chunk.js",
+        "/static/assets/3.fbcc8489.chunk.js",
+        "/static/assets/4.fbcc8489.chunk.js",
+        "/static/assets/6.fbcc8489.chunk.js",
+        "/static/assets/7.fbcc8489.chunk.js",
+        "/static/assets/explore.fbcc8489.entry.js"
+      ]
+    },
+    "dashboard": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.fbcc8489.chunk.js",
+        "/static/assets/mathjs.fbcc8489.chunk.js",
+        "/static/assets/thumbnail.fbcc8489.chunk.js",
+        "/static/assets/3.fbcc8489.chunk.js",
+        "/static/assets/4.fbcc8489.chunk.js",
+        "/static/assets/6.fbcc8489.chunk.js",
+        "/static/assets/7.fbcc8489.chunk.js",
+        "/static/assets/dashboard.fbcc8489.entry.js"
+      ]
+    },
+    "sqllab": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.fbcc8489.chunk.js",
+        "/static/assets/3.fbcc8489.chunk.js",
+        "/static/assets/4.fbcc8489.chunk.js",
+        "/static/assets/sqllab.fbcc8489.entry.js"
+      ]
+    },
+    "crudViews": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.fbcc8489.chunk.js",
+        "/static/assets/mathjs.fbcc8489.chunk.js",
+        "/static/assets/thumbnail.fbcc8489.chunk.js",
+        "/static/assets/3.fbcc8489.chunk.js",
+        "/static/assets/4.fbcc8489.chunk.js",
+        "/static/assets/crudViews.fbcc8489.entry.js"
+      ]
+    },
+    "menu": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.fbcc8489.chunk.js",
+        "/static/assets/3.fbcc8489.chunk.js",
+        "/static/assets/menu.fbcc8489.entry.js"
+      ]
+    },
+    "profile": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.fbcc8489.chunk.js",
+        "/static/assets/3.fbcc8489.chunk.js",
+        "/static/assets/profile.fbcc8489.entry.js"
+      ]
+    },
+    "showSavedQuery": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.fbcc8489.chunk.js",
+        "/static/assets/showSavedQuery.fbcc8489.entry.js"
+      ]
+    }
+  }
+}
