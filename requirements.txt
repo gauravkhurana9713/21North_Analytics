@@ -18,7 +18,7 @@ click==6.7
 colorama==0.4.3
 contextlib2==0.6.0.post1
 croniter==0.3.31
-cryptography==3.2
+cryptography
 decorator==4.4.1          # via retry
 defusedxml==0.6.0         # via python3-openid
 flask-appbuilder==2.2.2
