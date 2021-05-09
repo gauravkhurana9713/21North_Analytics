@@ -11,14 +11,14 @@ attrs==19.3.0             # via jsonschema
 babel==2.8.0              # via flask-babel
 backoff==1.10.0
 billiard==3.6.1.0         # via celery
-bleach==3.1.0
+bleach==3.3.0
 celery==4.4.0
 cffi==1.13.2              # via cryptography
 click==6.7
 colorama==0.4.3
 contextlib2==0.6.0.post1
 croniter==0.3.31
-cryptography==2.8
+cryptography==3.2
 decorator==4.4.1          # via retry
 defusedxml==0.6.0         # via python3-openid
 flask-appbuilder==2.2.2
@@ -40,7 +40,7 @@ humanize==0.5.1
 importlib-metadata==1.4.0  # via jsonschema, kombu
 isodate==0.6.0
 itsdangerous==1.1.0       # via flask
-jinja2==2.10.3            # via flask, flask-babel
+jinja2==2.11.3            # via flask, flask-babel
 jsonschema==3.2.0         # via flask-appbuilder
 kombu==4.6.7              # via celery
 mako==1.1.1               # via alembic
@@ -57,7 +57,7 @@ parsedatetime==2.5
 pathlib2==2.3.5
 polyline==1.4.0
 prison==0.1.2             # via flask-appbuilder
-py==1.8.1                 # via retry
+py==1.10.0                 # via retry
 pyarrow==0.15.1
 pycparser==2.19           # via cffi
 pyjwt==1.7.1              # via flask-appbuilder, flask-jwt-extended
@@ -68,7 +68,7 @@ python-editor==1.0.4      # via alembic
 python-geohash==0.8.5
 python3-openid==3.1.0     # via flask-openid
 pytz==2019.3              # via babel, celery, pandas
-pyyaml==5.3
+pyyaml==5.4
 retry==0.9.2
 selenium==3.141.0
 simplejson==3.17.0
