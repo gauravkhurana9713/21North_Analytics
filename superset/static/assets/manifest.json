@@ -4,94 +4,94 @@
     "theme": {
       "css": [],
       "js": [
-        "/static/assets/theme.3f4a78da.entry.js"
+        "/static/assets/theme.9261b44a.entry.js"
       ]
     },
     "preamble": {
       "css": [],
       "js": [
-        "/static/assets/vendors.3f4a78da.chunk.js",
-        "/static/assets/preamble.3f4a78da.entry.js"
+        "/static/assets/vendors.9261b44a.chunk.js",
+        "/static/assets/preamble.9261b44a.entry.js"
       ]
     },
     "addSlice": {
       "css": [],
       "js": [
-        "/static/assets/vendors.3f4a78da.chunk.js",
-        "/static/assets/mathjs.3f4a78da.chunk.js",
-        "/static/assets/thumbnail.3f4a78da.chunk.js",
-        "/static/assets/3.3f4a78da.chunk.js",
-        "/static/assets/4.3f4a78da.chunk.js",
-        "/static/assets/addSlice.3f4a78da.entry.js"
+        "/static/assets/vendors.9261b44a.chunk.js",
+        "/static/assets/mathjs.9261b44a.chunk.js",
+        "/static/assets/thumbnail.9261b44a.chunk.js",
+        "/static/assets/3.9261b44a.chunk.js",
+        "/static/assets/4.9261b44a.chunk.js",
+        "/static/assets/addSlice.9261b44a.entry.js"
       ]
     },
     "explore": {
       "css": [],
       "js": [
-        "/static/assets/vendors.3f4a78da.chunk.js",
-        "/static/assets/mathjs.3f4a78da.chunk.js",
-        "/static/assets/thumbnail.3f4a78da.chunk.js",
-        "/static/assets/3.3f4a78da.chunk.js",
-        "/static/assets/4.3f4a78da.chunk.js",
-        "/static/assets/6.3f4a78da.chunk.js",
-        "/static/assets/7.3f4a78da.chunk.js",
-        "/static/assets/explore.3f4a78da.entry.js"
+        "/static/assets/vendors.9261b44a.chunk.js",
+        "/static/assets/mathjs.9261b44a.chunk.js",
+        "/static/assets/thumbnail.9261b44a.chunk.js",
+        "/static/assets/3.9261b44a.chunk.js",
+        "/static/assets/4.9261b44a.chunk.js",
+        "/static/assets/6.9261b44a.chunk.js",
+        "/static/assets/7.9261b44a.chunk.js",
+        "/static/assets/explore.9261b44a.entry.js"
       ]
     },
     "dashboard": {
       "css": [],
       "js": [
-        "/static/assets/vendors.3f4a78da.chunk.js",
-        "/static/assets/mathjs.3f4a78da.chunk.js",
-        "/static/assets/thumbnail.3f4a78da.chunk.js",
-        "/static/assets/3.3f4a78da.chunk.js",
-        "/static/assets/4.3f4a78da.chunk.js",
-        "/static/assets/6.3f4a78da.chunk.js",
-        "/static/assets/7.3f4a78da.chunk.js",
-        "/static/assets/dashboard.3f4a78da.entry.js"
+        "/static/assets/vendors.9261b44a.chunk.js",
+        "/static/assets/mathjs.9261b44a.chunk.js",
+        "/static/assets/thumbnail.9261b44a.chunk.js",
+        "/static/assets/3.9261b44a.chunk.js",
+        "/static/assets/4.9261b44a.chunk.js",
+        "/static/assets/6.9261b44a.chunk.js",
+        "/static/assets/7.9261b44a.chunk.js",
+        "/static/assets/dashboard.9261b44a.entry.js"
       ]
     },
     "sqllab": {
       "css": [],
       "js": [
-        "/static/assets/vendors.3f4a78da.chunk.js",
-        "/static/assets/3.3f4a78da.chunk.js",
-        "/static/assets/4.3f4a78da.chunk.js",
-        "/static/assets/sqllab.3f4a78da.entry.js"
+        "/static/assets/vendors.9261b44a.chunk.js",
+        "/static/assets/3.9261b44a.chunk.js",
+        "/static/assets/4.9261b44a.chunk.js",
+        "/static/assets/sqllab.9261b44a.entry.js"
       ]
     },
     "crudViews": {
       "css": [],
       "js": [
-        "/static/assets/vendors.3f4a78da.chunk.js",
-        "/static/assets/mathjs.3f4a78da.chunk.js",
-        "/static/assets/thumbnail.3f4a78da.chunk.js",
-        "/static/assets/3.3f4a78da.chunk.js",
-        "/static/assets/4.3f4a78da.chunk.js",
-        "/static/assets/crudViews.3f4a78da.entry.js"
+        "/static/assets/vendors.9261b44a.chunk.js",
+        "/static/assets/mathjs.9261b44a.chunk.js",
+        "/static/assets/thumbnail.9261b44a.chunk.js",
+        "/static/assets/3.9261b44a.chunk.js",
+        "/static/assets/4.9261b44a.chunk.js",
+        "/static/assets/crudViews.9261b44a.entry.js"
       ]
     },
     "menu": {
       "css": [],
       "js": [
-        "/static/assets/vendors.3f4a78da.chunk.js",
-        "/static/assets/3.3f4a78da.chunk.js",
-        "/static/assets/menu.3f4a78da.entry.js"
+        "/static/assets/vendors.9261b44a.chunk.js",
+        "/static/assets/3.9261b44a.chunk.js",
+        "/static/assets/menu.9261b44a.entry.js"
       ]
     },
     "profile": {
       "css": [],
       "js": [
-        "/static/assets/vendors.3f4a78da.chunk.js",
-        "/static/assets/3.3f4a78da.chunk.js",
-        "/static/assets/profile.3f4a78da.entry.js"
+        "/static/assets/vendors.9261b44a.chunk.js",
+        "/static/assets/3.9261b44a.chunk.js",
+        "/static/assets/profile.9261b44a.entry.js"
       ]
     },
     "showSavedQuery": {
       "css": [],
       "js": [
-        "/static/assets/vendors.3f4a78da.chunk.js",
-        "/static/assets/showSavedQuery.3f4a78da.entry.js"
+        "/static/assets/vendors.9261b44a.chunk.js",
+        "/static/assets/showSavedQuery.9261b44a.entry.js"
       ]
     }
   }

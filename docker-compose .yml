@@ -1,0 +1,60 @@
+version: '3'
+services:
+  redis:
+    image: redis:3.2
+    restart: always
+    user: root
+    ports:
+      - 6379:6379
+    volumes:
+      - redis:'/data'  
+  mysql:
+    image: mysql:5.7
+    restart: always
+    environment:
+      MYSQL_USER: superset
+      MYSQL_PASSWORD: superset
+      MYSQL_DATABASE: superset
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - 3306:3306
+    volumes:
+      - mysql:'/var/lib/mysql'
+  superset:
+    image: gkhurana13/superset:latest
+    user: root
+    environment:
+      SUPERSET_ENV: local
+      MYSQL_USER: superset
+      MYSQL_PASS: superset
+      MYSQL_DATABASE: superset
+      MYSQL_HOST: mysql
+      MYSQL_PORT: 3306
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      SUPERSET_SQLALCHEMY_DATABASE_URI: mysql://superset:superset@mysql:3306/superset
+      SUPERSET_USER: admin
+      SUPERSET_PASS: admin
+    ports:
+      - 8088:8088
+      - 5555:5555
+    depends_on:
+      - mysql
+      - redis
+    volumes:
+      - superset:'/home/superset/config/'
+ 
+
+volumes:
+ redis:
+    driver: cloudstor:aws
+    driver_opts:
+      backing: shared
+ mysql:
+    driver: cloudstor:aws
+    driver_opts:
+      backing: shared
+ superset:
+    driver: cloudstor:aws
+    driver_opts:
+      backing: shared
